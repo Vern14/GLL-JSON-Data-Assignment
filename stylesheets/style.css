@@ -2,13 +2,13 @@ a{color: black; }
 #demo{text-align: left; -webkit-column-count:3 ; /* Chrome, Safari, Opera */
     -moz-column-count: 3; /* Firefox */
     column-count: 3; margin-left: -35px; width:100%; margin-top:90px;}
-h1{text-align:center; background: white; padding:20px;  width:100%; position:fixed; margin-top:-90px; margin-left:-10px;}
-li{background:white; padding:20px; margin-left: 45px; margin-bottom: 5px; }
+h1{text-align:center; background: white; padding:20px;  width:100%; position:fixed; margin-top:-90px; margin-left:-10px; box-shadow: 0px 1px  5px #888888;}
+li{background:white; padding:20px; margin-left: 45px; margin-bottom: 15px; box-shadow: 0px 1px  1.5px #888888;}
 li:first-child { 
     margin-top:-18px;
 }
-body{background: 	#F8F8F8;}
-ol{list-style-type: upper-roman;}
+body{background: 	#F8F8F8; background:#E5E5E5;}
+ol{list-style-type: none;} 
 img{width:100%; }
 
 
