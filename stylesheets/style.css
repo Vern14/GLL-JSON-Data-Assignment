@@ -3,7 +3,7 @@ a{color: black; }
     -moz-column-count: 3; /* Firefox */
     column-count: 3; margin-left: -35px; width:100%; margin-top:90px;}
 h1{text-align:center; background: white; padding:20px;  width:100%; position:fixed; margin-top:-90px; margin-left:-10px; box-shadow: 0px 1px  5px #888888;}
-li{background:white; padding:20px; margin-left: 30px; margin-bottom: 15px; box-shadow: 0px 1px  1.5px #888888;}
+li{background:white; padding:20px; margin-left: 27px; margin-bottom: 15px; box-shadow: 0px 1px  1.5px #888888;}
 li:first-child { 
     margin-top:-18px;
 }
